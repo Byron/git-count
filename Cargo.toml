@@ -1,0 +1,10 @@
+[package]
+name = "git-count"
+version = "1.0.0"
+authors = ["Sebastian Thiel <byronimo@gmail.com>"]
+publish = false
+
+[dependencies]
+git2 = "0.7.1"
+failure = "0.1.1"
+failure-tools = "4.0.2"
